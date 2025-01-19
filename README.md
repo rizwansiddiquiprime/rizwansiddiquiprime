@@ -1,4 +1,5 @@
 ## Hi there 👋 I'm Rizwan Siddiqui
+## Power BI Developer
 
 - 🔭 I’m currently working on Business 360 Project
 - 🌱 I’m currently learning Power BI, Python, SQL, Excel

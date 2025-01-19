@@ -5,5 +5,5 @@
 - 📫 How to reach me rizwan.siddiqui.prime@gmail.com
 - 🔍 Explore My Projects: Dive into my repositories to see how I’m using Power BI to solve real-world data problems and enhance decision-making.
 - 🌱 Current Focus: Continuously improving my data analytics skills to make data-driven impacts.
-- ⚡ Fun fact From balancing accounts to transforming data into actionable insights.
+- ⚡ Fun fact: From balancing accounts to transforming data into actionable insights.
 

@@ -8,3 +8,4 @@
 - 🌱 Current Focus: Continuously improving my data analytics skills to make data-driven impacts.
 - ⚡ Fun fact: From balancing accounts to transforming data into actionable insights.
 
+<p>🔍 <strong>Connect with me:</strong> <a href="https://www.linkedin.com/in/yrprofile/" target="_blank">LinkedIn</a></p>
